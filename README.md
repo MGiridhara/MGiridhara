@@ -20,18 +20,6 @@
   🔐 Cybersecurity Enthusiast
 </p>
 
----
-
-## 🚀 About Me
-
-- 💻 Passionate about Software Development and Programming
-- ☕ Currently working with **Java**
-- 🐍 Building projects using **Python**
-- 🔐 Interested in **Cybersecurity**
-- 🧩 Practicing **Data Structures & Algorithms**
-- 🚀 I enjoy building practical projects and learning new technologies
-
----
 
 ## 🛠️ Tech Stack
 
