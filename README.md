@@ -44,8 +44,12 @@
 ---
 ### **Cybersecurity & Tools:**
 
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/nmap/00457C" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/owasp/000000" width="48" height="48" />
 
 ---
 
