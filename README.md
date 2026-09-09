@@ -44,7 +44,7 @@
 ---
 ### **Cybersecurity & Tools:**
 
-<img src="https://skillicons.dev/icons?i=linux,bash" /> <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" /> <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="48" height="48" /> <img src="https://cdn.simpleicons.org/metasploit/2596CD" width="48" height="48" /> <img src="https://cdn.simpleicons.org/nmap/00457C" width="48" height="48" /> <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" /> <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=linux,bash" /> <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" /> <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="48" height="48" /> <img src="https://cdn.simpleicons.org/metasploit/2596CD" width="48" height="48" /> <img src="https://cdn.simpleicons.org/nmap/00457C" width="48" height="48" /> 
 
 ---
 
