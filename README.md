@@ -19,6 +19,9 @@
   🐍 Python Developer &nbsp; | &nbsp;
   🔐 Cybersecurity Enthusiast
 </p>
+<p align="center">
+  📧 <a href="mailto:mgiridhara770@gmail.com">mgiridhara770@gmail.com</a>
+</p>
 
 
 ## 🛠️ Tech Stack
