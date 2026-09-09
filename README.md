@@ -65,10 +65,14 @@
 <p align="left">
 
 <a href="https://github.com/MGiridhara">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<a href="https://www.linkedin.com/in/giridhara-77m0">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+<a href="https://www.linkedin.com/in/giridhara-77m0">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
 
 <!-- Add your LinkedIn here -->
 
@@ -80,7 +84,7 @@
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=MGiridhara&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=MGiridhara&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </p>
 
