@@ -36,7 +36,25 @@
 </p>
 
 ---
+### **Databases:**
 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+
+---
+### **Cybersecurity & Tools:**
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2C3E50?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLMap-F29111?style=for-the-badge&logo=sqlmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Autopsy-1E1E1E?style=for-the-badge&logoColor=white"/>
+
+---
 
 
 ## 🔥 GitHub Streak
