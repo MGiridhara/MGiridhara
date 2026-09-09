@@ -32,7 +32,7 @@
 ### 🧰 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,swagger,vscode" />
 </p>
 
 ---
