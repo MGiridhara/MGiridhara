@@ -45,7 +45,7 @@
 ### **Cybersecurity & Tools:**
 
 <img src="https://skillicons.dev/icons?i=linux,bash" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="48" height="48"/>
 
 ---
 
