@@ -37,47 +37,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 KeyLogger
-
-A Python-based keyboard activity monitoring tool designed for
-educational and cybersecurity research purposes.
-
-**Tech Stack:**  
-Python • Windows API • Keyboard Hooks • File I/O • Multi-threading
-
----
-
-### 🔑 Password
-
-A project focused on password-related functionality and security concepts.
-
-**Tech Stack:**  
-Java • Python
-
----
-
-### 🔐 Password Verify
-
-A password verification project focused on authentication and
-password validation concepts.
-
-**Tech Stack:**  
-Java • Python
-
----
-
-### 📊 Anomaly Detection
-
-A project focused on identifying unusual or abnormal patterns
-within data.
-
-**Tech Stack:**  
-Python
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
